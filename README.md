@@ -3,7 +3,7 @@ Updated Personal Repository for COMP 20
 
 The purpose of this repository is to showcase our coursework.
 
-My favorite deliverable was Lab 5, Duck Hunt. Although I knew of JavaScript (JS), this lab formally introduced me to the language; it was the first time I wrote and used JS to manipulate 2D graphics with HTML's canvas. The exercise was an eye-opener and the process of discovery was enjoyable.
+My favorite deliverable was Lab 5, Duck Hunt. Although I knew of JavaScript (JS), this lab formally introduced me to the language; it was the first time I wrote and used JS, and especially to manipulate 2D graphics with HTML's canvas. The exercise was an eye-opener and the process of discovery was enjoyable.
 
 Since commencement of the course, I posses improved skills and greater confidence in understanding various technologies; we covered topics such as HTML, CSS, JS, Git repository, Developer Tools, etc. There is only so much content that the course can cover in a semester but it provided a solid foundation upon which to enhance my computer engineering skillset.
 
